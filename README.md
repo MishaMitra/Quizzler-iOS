@@ -6,7 +6,7 @@
 
 
 
-## What is learned  ~:space_invader:
+## What is learned  :space_invader:
 
 * How to programmatically change UI elements such as Labels and Buttons.
 * What is a design pattern and how is it used in programming.
@@ -18,5 +18,5 @@
 * Learn about Object Oriented Programming.
 * How to refactor code and stay organised.
 
-![Banner](Documentation/Quizzler.png)
 
+<img src="Documentation/Quizzler.png" width="300">
